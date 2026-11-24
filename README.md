@@ -8,6 +8,10 @@ Train a small feedforward neural network to classify non-linear data.
 
 Two-layer dense network with ReLU hidden units and sigmoid output, trained with Adam.
 
+## Theory
+
+Neural networks model non-linear boundaries; students see improved accuracy over linear methods.
+
 ## PROGRAM:
 
 ```
@@ -35,10 +39,6 @@ print('NN test accuracy:', round(accuracy_score(yte, y_pred),4))
 NN test accuracy: 0.86
 
 ```
-
-## Theory
-
-Neural networks model non-linear boundaries; students see improved accuracy over linear methods.
 
 ## RESULT:
 
