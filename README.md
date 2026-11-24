@@ -1,27 +1,12 @@
-## Neural Network (Keras) on non-linear toy data (make_moons)
-
-
-
+## Experiment-9.Neural Network (Keras) on non-linear toy data (make_moons)
 
 ## AIM:
 
-
-
-
 Train a small feedforward neural network to classify non-linear data.
-
-
-
 
 ## ALGORITHM:
 
-
-
-
 Two-layer dense network with ReLU hidden units and sigmoid output, trained with Adam.
-
-
-
 
 ## PROGRAM:
 
@@ -51,9 +36,10 @@ NN test accuracy: 0.86
 
 ```
 
+## Theory
+
+Neural networks model non-linear boundaries; students see improved accuracy over linear methods.
+
 ## RESULT:
-
-
-
 
 Neural networks model non-linear boundaries; students see improved accuracy over linear methods
